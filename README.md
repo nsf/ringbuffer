@@ -1,0 +1,1 @@
+Super simple fixed length FIFO ring buffer in Go.
